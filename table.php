@@ -40,13 +40,13 @@
         <td>kim taeyeon</td>
         <td>taeyeon</td>
         <td><img src="https://pbs.twimg.com/media/FK-Ux71aUAEgcOK?format=jpg&name=4096x4096" width="100px"></td>
-        <td><a href=https://twitter.com/GirlsGeneration">twitter</a></td>
+        <td><a href="https://twitter.com/girlsgeneration">twitter</a></td>
         <tr>
         <td>6</td>
         <td>kim sunwoo</td>
         <td>sunoo</td>
         <td><img src="https://pbs.twimg.com/media/FJzBz-XVcAAD-t0?format=jpg&name=large" width="100px"></td>
-        <td><a href="https://twitter.com/ENHYPEN_members">twitter</a></td>
+        <td><a href="https://twitter.com/enhypen_members">twitter</a></td>
       </tr>
     </table>
    </body> 
