@@ -34,7 +34,7 @@
         <td>bae juhyun</td>
         <td>irene</td>
         <td><img src="https://pbs.twimg.com/media/FHqjMq0aAAAxhze?format=jpg&name=4096x4096" width="100px"></td>
-        <td><a href="https://twitter.com/RVsmtown">twitter</a></td>
+        <td><a href="https://twitter.com/rvsmtown">twitter</a></td>
         <tr>
         <td>5</td>
         <td>kim taeyeon</td>
