@@ -15,8 +15,8 @@
         <td>1</td>
         <td>yu jimin</td>
         <td>karina</td>
-        <td><img src="https://i.pinimg.com/originals/c5/0a/46/c50a46f12c99102d113ed344fa6390d0.jpg" width="100px"></td>
-        <td><a href="https://twitter.com/BLACKPINK">twitter</a></td>
+        <td><img src="https://pbs.twimg.com/media/FDRPGOxaMAAa9WT?format=jpg&name=large" width="100px"></td>
+        <td><a href="https://twitter.com/aespa_official">twitter</a></td>
         <tr>
         <td>2</td>
         <td>kim minjeonge</td>
